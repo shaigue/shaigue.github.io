@@ -14,7 +14,7 @@
 <br>
 
 {% for file in site.static_files %}
-    {% if file.image %}
+    {% if file.extname == "JPG" or file.extname == "jpg" %}
     <br> {{ file.name }} <br>
     <img src="{{ file.path }}" alt="{{ file.basename }}" width="250" height="250" >
     {% endif %}

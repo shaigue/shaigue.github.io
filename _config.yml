@@ -40,11 +40,6 @@ defaults:
     values:
       author: "shai"
       layout: "default"
-  - 
-    scope:
-      path: "static/images/"
-    values:
-      image: true
 
 
 # for github
