@@ -22,7 +22,7 @@ title: Shai Guendelman
 email: shaigue@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   my portfolio page, showcasing some of my recent projects.
-baseurl: "shaigue.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  shaigue
 
@@ -48,16 +48,16 @@ defaults:
 
 
 # for github
-lsi: false
-safe: true
-source: .
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
+# lsi: false
+# safe: true
+# source: .
+# incremental: false
+# highlighter: rouge
+# gist:
+#   noscript: false
+# kramdown:
+#   math_engine: mathjax
+#   syntax_highlighter: rouge
 
 # Exclude from processing.
 # The following items will not be processed, by default.
