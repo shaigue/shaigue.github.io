@@ -4,7 +4,6 @@
 layout: home
 ---
 
-## About Myself
 I am a computer science masters student at the Technion. Just started so I am currently looking for an advisor.
 Also looking for doing summer reasearch internships during the next and the following summer, please contact me if
 you have an offer.
