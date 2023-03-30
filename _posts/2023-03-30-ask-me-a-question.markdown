@@ -3,6 +3,7 @@ layout: post
 title:  "Ask Me a Question"
 permalink: /ask-me-a-question
 date:   2023-03-30 
+image: "/static/images/ask_me_a_question.webp"
 # categories: jekyll update
 ---
 <center><img src="/static/images/ask_me_a_question.webp" width="30%" height="auto"></center>
