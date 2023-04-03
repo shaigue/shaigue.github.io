@@ -4,15 +4,21 @@
 - [x] add a personal image
 - [ ] add images to the blog post (might require changing the home layout)
 - [ ] add blog posts for my projects
-  - [ ] ask me a question
-  - [ ] how to do math
-  - [ ] network config analyzer
+  - [x] ask me a question
+  - [x] approaches to tcs research (Work in progress)
+  - [ ] optimizing np-guard (IBM)
   - [ ] concurrent games with multiple topologies
   - [ ] mathqa
-  - [ ] formal verification of NN seminar slides
-  - [ ] explainability seminar slides
   - [ ] autonomous landing
   - [ ] live cap cover
+  - [ ] formal verification of NN seminar slides
+  - [ ] explainability seminar slides
 
+
+# Instuctions
+to run locally, run in the command line:
+```
+bundle exec jekyll serve
+```
 
 

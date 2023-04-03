@@ -6,7 +6,7 @@ date:   2023-03-30
 image: "/static/images/ask_me_a_question.webp"
 # categories: jekyll update
 ---
-<center><img src="/static/images/ask_me_a_question.webp" width="30%" height="auto"></center>
+<center><img src="{{ page.image }}" width="30%" height="auto"></center>
 <br>
 In this project, I did a very simple thing. I asked some friends if there is a question that they would like to be asked. Then, I asked them that question. It turned out quite interesting.
 
