@@ -16,4 +16,4 @@ I think most of us have personal research projects, but we might not call them â
 
 During the conversation, I tried to help participants to process their thoughts about their question by using a form of [Socratic dialog](https://en.wikipedia.org/wiki/Socratic_dialogue), which emphasizes listening and asking questions.
 
-If you are interested to read more about this project, you can check out the [report (Hebrew)](/static/pdfs/ask_me_a_question_report.pdf). 
+If you are interested to read more about this project, you can check out the [report (Hebrew)](/static/reports/ask_me_a_question_report.pdf). 

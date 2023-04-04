@@ -13,4 +13,4 @@ In my master's thesis, we studied Nash Equilibria in concurrent games with multi
 
 In our work, we examined a limited type of partial information, called multi-topology games, where players can play one of several different games (topologies), but they don’t know at the start of the game exactly which one they are in. We showed that this problem is decidable and presented an algorithm for solving it.
 
-Our work was presented at [The 33rd International Conference on Concurrency Theory (CONCUR 2022)](https://concur2022.mimuw.edu.pl/). You can read the full paper on [arxiv](https://arxiv.org/abs/2207.02596) and check out the [slides](static/pdfs/Concurrent Games with Multiple Topologies slides.pdf).
+Our work was presented at [The 33rd International Conference on Concurrency Theory (CONCUR 2022)](https://concur2022.mimuw.edu.pl/). You can read the full paper on [arxiv](https://arxiv.org/abs/2207.02596) and check out the [slides](static/slides/concurrent_games_with_multiple_topologies_slides.pdf).
