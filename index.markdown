@@ -9,15 +9,18 @@ layout: home
 <img src="/static/images/photo_of_my_self.jpg" alt="Shai Guendelman photo"
 width="30%" hight="30%">
 
-Welcome to my website! I'm an algorithms engineer and researcher with a passion for tackling hard problems and constantly learning new things. I strongly believe in combining hands-on experience with a deep understanding of concepts and have excellent communication and teamwork abilities.
+Hello, my name is Shai! 
 
-Recently, I completed my MSc in Computer Science at the [Technion](https://cs.technion.ac.il/), where I focused on [Algorithmic Game Theory](https://en.wikipedia.org/wiki/Algorithmic_game_theory) and [Formal Methods](https://en.wikipedia.org/wiki/Formal_methods) under the guidance of [Shaull Almagor](https://shaull.cswp.cs.technion.ac.il/). I'm currently seeking my next challenge as an algorithms engineer/researcher or software engineer working on complex systems. My areas of interest include artificial intelligence, machine learning, engineering, and mathematics, and I particularly enjoy exploring the intersection of these fields.
 
-In addition to my work in computer science, I have a strong interest in learning science and how we can optimize our learning processes. I believe that better understanding how we learn can lead to positive impacts on society, and I'm always excited to explore new ideas in this area. If you have any thoughts or ideas on this topic, I'd love to hear from you!
+I'm an algorithm developer at Mobileye, working on autonomous driving and driver assistance. I enjoy solving complex problems and continuously learning. I'm passionate about both machine and human learning, and strongly believe that real-world experience, combined with deep theoretical knowledge and soft skills, creates a strong foundation.
 
-Thank you for visiting my website, and I look forward to connecting with you!
 
-You are welcome to check out my profiles on [GitHub](https://github.com/shaigue) and [LinkedIn](https://www.linkedin.com/in/shai-guendelman/). 
+In addition to my work in computer science, I’m interested in how we learn and how we can learn more effectively. I believe that better understanding learning and applying it to our daily lives can benefit society. I’m always eager to explore new ideas in this area. If you have any thoughts, I’d love to hear from you!
 
-An up-to-date version of my [CV](/static/cv/cv_05.04.2023.pdf).
 
+Before taking on my current role, I completed my MSc in computer science at the [Technion](https://cs.technion.ac.il/), where I specialized in *Algorithmic Game Theory* and *Formal Verification* under the guidance of [Shaull Almagor](https://shaull.cswp.cs.technion.ac.il/). My thesis is titled "Concurrent Games With Multiple Topologies".
+
+
+- [Homepage](https://shaigue.github.io/)
+- [GitHub](https://github.com/shaigue)
+- [LinkedIn](https://www.linkedin.com/in/shai-guendelman/). 
