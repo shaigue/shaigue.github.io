@@ -23,4 +23,4 @@ Before taking on my current role, I completed my MSc in computer science at the 
 
 - [Homepage](https://shaigue.github.io/)
 - [GitHub](https://github.com/shaigue)
-- [LinkedIn](https://www.linkedin.com/in/shai-guendelman/). 
+- [LinkedIn](https://www.linkedin.com/in/shai-guendelman/)
